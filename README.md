@@ -1,4 +1,5 @@
-# k_means
+# k-means
 
-You can find k-means sample here
-I hope this useful for you
+You can find k-means sample here.
+
+I hope this useful for you.
