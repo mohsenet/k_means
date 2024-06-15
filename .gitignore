@@ -5,6 +5,7 @@
 # C extensions
 *.so
 
+/.ipynb_checkpoints
 /venv
 /.idea
 /datasets
