@@ -6,6 +6,7 @@
 *.so
 
 /.ipynb_checkpoints
+codes/.ipynb_checkpoints
 /venv
 /.idea
 /datasets
